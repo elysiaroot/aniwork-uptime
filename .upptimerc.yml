@@ -5,6 +5,8 @@ repo: "aniwork-uptime" # The name of this repository
 sites:
   - name: "Aniwork Network"
     url: "https://ani.work/"
+  - name: "Image-CDN"
+    url: "https://cdn.ani.work/media_attachments/files/109/368/607/400/125/411/original/073fc528ace47db4.png"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
