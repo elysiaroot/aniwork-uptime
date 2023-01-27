@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ani.work.ico",
     "slug": "aniwork-network",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 768,
-    "timeDay": 900,
-    "timeWeek": 768,
-    "timeMonth": 768,
-    "timeYear": 768,
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 777,
+    "timeDay": 873,
+    "timeWeek": 839,
+    "timeMonth": 777,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2023-01-25": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 917,
-    "timeWeek": 357,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "time": 329,
+    "timeDay": 102,
+    "timeWeek": 229,
+    "timeMonth": 329,
+    "timeYear": 329,
     "dailyMinutesDown": {}
   }
 ]
