@@ -4,11 +4,11 @@
     "url": "https://ani.work/",
     "icon": "https://icons.duckduckgo.com/ip3/ani.work.ico",
     "slug": "aniwork-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 808,
     "timeDay": 562,
@@ -16,6 +16,7 @@
     "timeMonth": 776,
     "timeYear": 808,
     "dailyMinutesDown": {
+      "2023-07-26": 1,
       "2023-07-11": 28,
       "2023-01-25": 19
     }
@@ -25,10 +26,10 @@
     "url": "https://cdn.ani.work/media_attachments/files/109/368/607/400/125/411/original/073fc528ace47db4.png",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.ani.work.ico",
     "slug": "image-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
@@ -36,16 +37,18 @@
     "timeWeek": 477,
     "timeMonth": 435,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 1
+    }
   },
   {
     "name": "Aniwork Relay",
     "url": "https://relay.ani.work",
     "icon": "https://icons.duckduckgo.com/ip3/relay.ani.work.ico",
     "slug": "aniwork-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,6 +57,8 @@
     "timeWeek": 417,
     "timeMonth": 439,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   }
 ]
