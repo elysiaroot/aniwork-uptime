@@ -6,9 +6,9 @@
     "slug": "aniwork-network",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 809,
     "timeDay": 818,
@@ -16,7 +16,7 @@
     "timeMonth": 786,
     "timeYear": 809,
     "dailyMinutesDown": {
-      "2023-07-26": 9,
+      "2023-07-26": 0,
       "2023-07-11": 28,
       "2023-01-25": 19
     }
@@ -28,18 +28,16 @@
     "slug": "image-cdn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 501,
     "timeWeek": 475,
     "timeMonth": 436,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2023-07-26": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Aniwork Relay",
@@ -48,17 +46,15 @@
     "slug": "aniwork-relay",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 452,
     "timeDay": 371,
     "timeWeek": 401,
     "timeMonth": 434,
     "timeYear": 452,
-    "dailyMinutesDown": {
-      "2023-07-26": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
