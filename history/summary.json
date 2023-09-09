@@ -28,19 +28,19 @@
     "url": "https://cdn.ani.work/media_attachments/files/109/368/607/400/125/411/original/073fc528ace47db4.png",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.ani.work.ico",
     "slug": "image-cdn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 517,
-    "timeWeek": 534,
-    "timeMonth": 563,
-    "timeYear": 295,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 303,
+    "timeDay": 1130,
+    "timeWeek": 736,
+    "timeMonth": 618,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-09-09": 0
+      "2023-09-09": 19
     }
   },
   {
