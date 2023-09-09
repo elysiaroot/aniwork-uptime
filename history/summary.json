@@ -28,18 +28,20 @@
     "url": "https://cdn.ani.work/media_attachments/files/109/368/607/400/125/411/original/073fc528ace47db4.png",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.ani.work.ico",
     "slug": "image-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 569,
-    "timeWeek": 544,
-    "timeMonth": 567,
-    "timeYear": 294,
-    "dailyMinutesDown": {}
+    "time": 295,
+    "timeDay": 517,
+    "timeWeek": 534,
+    "timeMonth": 563,
+    "timeYear": 295,
+    "dailyMinutesDown": {
+      "2023-09-09": 0
+    }
   },
   {
     "name": "Aniwork Relay",
